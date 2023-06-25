@@ -1,0 +1,55 @@
+#timKiem {
+    padding-top: 20px;
+}
+
+#banner {
+    padding-top: 20px;
+    width: 1320px;
+}
+
+#tieude-dienthoai {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#duongKe {
+    width: 200px;
+    margin: auto;
+    height: 2px;
+    background-color: red;
+}
+
+#bn {
+    width: 320px;
+    margin-top: 8px;
+    border-radius: 10px;
+
+}
+
+#tenqc {
+    padding-top: 40px;
+}
+
+#cardSP {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#tenSP {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+#giaSP {
+    color: red;
+    font-weight: bold;
+}
+
+#icon-hot {
+    width: 100px;
+}
+
+#card-SP {
+    border: none;
+}
